@@ -1,0 +1,4 @@
+org\williamhill\automation\RunCucumberTests.class
+org\williamhill\automation\tests\AbstractTest.class
+org\williamhill\automation\tests\stepDefinitions\PlaceABetTestSteps.class
+org\williamhill\automation\tests\GlobalHooks.class
